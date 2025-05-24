@@ -6,8 +6,8 @@
 
 ## 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a seasoned Java Engineer, targetting to deliver High-Performance Enterprise-Grade Applications and also specialize in building scalable Microservices deployable on cloud infrastructure like AWS 🤖
-🎓 &nbsp;I'm a proud Indian :D
+💡 &nbsp;I'm a seasoned Java Engineer, targetting to deliver High-Performance Enterprise-Grade Applications and also specialize in building scalable Microservices deployable on cloud infrastructure like AWS 🤖\
+🎓 &nbsp;I'm a proud Indian :D \
 ✉️ &nbsp;If you want to say Hi, you can email me at ms.khushboo13@gmail.com.
 
 ## 📚 Latest publications
