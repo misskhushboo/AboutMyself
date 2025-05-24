@@ -11,7 +11,7 @@
 ✉️ &nbsp;If you want to say Hi, you can email me at ms.khushboo13@gmail.com.
 
 ## 📚 Latest publications
-- [![Medium Page](https://medium.com/@ms.khushboo13/interaction-with-cursor-ai-f9ce47773b0c)]
+-✉️ [![Medium Page](https://medium.com/@ms.khushboo13/interaction-with-cursor-ai-f9ce47773b0c)]
 
 ## 📖 &nbsp; Reading list
 
